@@ -34,9 +34,9 @@
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(replace with your real one)*
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/yash-mehta-576502349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - 🌐 [GitHub](https://github.com/yashm1562)
-- 📧 Email: yashm1562@gmail.com *(add real one)*
+- 📧 Email: yashm1562@gmail.com
 
 ---
 
