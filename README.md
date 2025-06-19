@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 I’m currently pursuing **Electronics & Communication Engineering (ECE)** at GTU.
+- 🎓 I’m currently pursuing **Electronics & Communication Engineering (ECE)** at L.D College Of Engineering.
 - 🔐 Passionate about **Cybersecurity**, **Ethical Hacking**, and **Network Security**.
 - 🎯 Currently learning tools like **Wireshark**, **Kali Linux**, and platforms like **TryHackMe** & **Hack The Box**.
 - 🌱 Exploring **Python scripting**, **Linux fundamentals**, and **penetration testing**.
