@@ -36,7 +36,7 @@
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(replace with your real one)*
 - 🌐 [GitHub](https://github.com/yashm1562)
-- 📧 Email: yash@example.com *(add real one)*
+- 📧 Email: yashm1562@gmail.com *(add real one)*
 
 ---
 
